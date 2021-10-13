@@ -1,0 +1,14 @@
+{
+  "name": "linq-network-demo-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@altronix/linq": "^0.2.0-rc.3"
+  }
+}
